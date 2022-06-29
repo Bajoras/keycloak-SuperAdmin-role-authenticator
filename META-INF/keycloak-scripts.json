@@ -1,0 +1,11 @@
+{
+    "authenticators": [
+        {
+            "name": "SuperAdmin Authenticator",
+            "fileName": "super-admin-authenticator.js",
+            "description": "Authenticate users with SuperAdmin role"
+        }
+    ],
+    "policies": [],
+    "mappers": []
+}
